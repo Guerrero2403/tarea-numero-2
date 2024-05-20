@@ -31,3 +31,10 @@ Se realizó una solicitud POST a /libros con los datos de un nuevo libro en form
 
 Ejecución Local
 Para ejecutar el proyecto localmente, simplemente clona el repositorio desde GitHub, importa el proyecto en tu IDE favorito y ejecútalo como una aplicación Spring Boot. Asegúrate de tener Java y Maven instalados en tu sistema.
+
+#imagen 
+
+![Captura de Pantalla de la Aplicación](https://github.com/Guerrero2403/tarea-numero-2/blob/main/Captura1.PNG)
+![Captura de Pantalla de la Aplicación](https://github.com/Guerrero2403/tarea-numero-2/blob/main/Captura2.PNG)
+
+
