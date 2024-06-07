@@ -36,5 +36,6 @@ Para ejecutar el proyecto localmente, simplemente clona el repositorio desde Git
 
 ![Captura de Pantalla de la Aplicación](https://github.com/Guerrero2403/tarea-numero-2/blob/main/Captura1.PNG)
 ![Captura de Pantalla de la Aplicación](https://github.com/Guerrero2403/tarea-numero-2/blob/main/Captura2.PNG)
+![Captura de Pantalla de la Aplicación](https://github.com/Guerrero2403/tarea-numero-2/blob/main/Captura4.PNG)
 
 
