@@ -1,5 +1,5 @@
 #Librería API
-La Librería API es un proyecto de API REST desarrollado con Spring Boot que permite gestionar información sobre libros. Esta API proporciona endpoints para realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en una base de datos de libros.
+
 
 #Estructura del Proyecto
 El proyecto sigue una estructura de paquetes estándar de Spring Boot:
